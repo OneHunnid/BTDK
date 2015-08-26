@@ -1,7 +1,7 @@
 {
-  "name": "basic_template",
+  "name": "BTDK",
   "version": "1.0.0",
-  "description": "Basic Template is a simple repo designed to jump-start template development. BT includes LESS, jQuery and the Skeleton framework.",
+  "description": "Basic Template Developer Kit is designed simply to jump-start template development. BTDK includes LESS, jQuery and the Skeleton framework.",
   "main": "index.js",
   "dependencies": {
     "less": "^2.5.1",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OneHunnid/Basic_Template.git"
+    "url": "git+https://github.com/OneHunnid/BTDK.git"
   },
   "keywords": [
     "basic",
@@ -29,7 +29,7 @@
   "author": "Chris Limbrick",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/OneHunnid/Basic_Template/issues"
+    "url": "https://github.com/OneHunnid/BTDK/issues"
   },
-  "homepage": "https://github.com/OneHunnid/Basic_Template#readme"
+  "homepage": "https://github.com/OneHunnid/BTDK#readme"
 }
