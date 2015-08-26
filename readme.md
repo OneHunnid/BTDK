@@ -32,9 +32,9 @@ Basic Template Developer Kit/
 └── readme.md
 ```
 ### Dependencies & Framework
-* LESS
-* jQuery
-* [Skeleton](http://http://getskeleton.com/)
+* [LESS](http://lesscss.org/)
+* [jQuery](https://jquery.com/)
+* [Skeleton](http://getskeleton.com/)
 
 ## License
 BTDK is free to use and abuse under the open-source MIT license
