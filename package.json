@@ -1,8 +1,16 @@
 {
   "name": "basic_template",
   "version": "1.0.0",
-  "description": "Basic template that includes LESS and the Skeleton framework",
+  "description": "Basic Template is a simple repo designed to jump-start template development. BT includes LESS, jQuery and the Skeleton framework.",
   "main": "index.js",
+  "dependencies": {
+    "less": "^2.5.1",
+    "jquery": "^2.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/OneHunnid/Basic_Template.git"
