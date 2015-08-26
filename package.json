@@ -1,0 +1,27 @@
+{
+  "name": "basic_template",
+  "version": "1.0.0",
+  "description": "Basic template that includes LESS and the Skeleton framework",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OneHunnid/Basic_Template.git"
+  },
+  "keywords": [
+    "basic",
+    "template",
+    "boilerplate",
+    "less",
+    "skeleton",
+    "TDK",
+    "template",
+    "developer",
+    "kit"
+  ],
+  "author": "Chris Limbrick",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OneHunnid/Basic_Template/issues"
+  },
+  "homepage": "https://github.com/OneHunnid/Basic_Template#readme"
+}
