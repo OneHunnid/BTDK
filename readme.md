@@ -31,10 +31,9 @@ Basic Template Developer Kit/
 ├── package.json
 └── readme.md
 ```
-### Dependencies
+### Dependencies & Framework
 * LESS
 * jQuery
-### Framework
 * [Skeleton](http://http://getskeleton.com/)
 
 ## License
